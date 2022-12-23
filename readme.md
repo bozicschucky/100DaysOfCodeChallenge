@@ -10,3 +10,9 @@
 7. Split Landing Page
 8. Form Wave Animation
 9. Sound Board
+10. Dad Jokes
+11. Event KeyCodes
+12. FAQ Collapse
+13. Random Choice Picker
+14. Animated Navigation
+15. Incrementing Counter
