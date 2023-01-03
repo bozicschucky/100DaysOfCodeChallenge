@@ -17,3 +17,9 @@
 14. Animated Navigation
 15. Incrementing Counter
 16. Drink Water
+17. Movie App.
+18. Background Slider.
+19. Theme clock
+20. Button Ripple Effect.
+21. Drag n Drop.
+22. Drawing App
