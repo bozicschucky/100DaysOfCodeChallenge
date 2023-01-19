@@ -23,3 +23,11 @@
 20. Button Ripple Effect.
 21. Drag n Drop.
 22. Drawing App
+23. Rotating Triangle Loader
+24. Content Placeholder
+25. Sticky NavBar
+26. Double Vertical Slider
+27. Toast Animation
+28. Github Profiles
+29. Double Heart Click
+30. Auto Text Effect
